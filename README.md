@@ -12,9 +12,9 @@
 _This text_ is in italics
 
 <!-- Strong/Bold -->
-**This text** is in italics
+**This text** is in bold
 
-__This text__ is in italics
+__This text__ is in bold
 
 <!-- Strike through -->
 ~~This text~~ is strikethough
