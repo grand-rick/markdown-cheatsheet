@@ -1,6 +1,7 @@
 ## Additional resources
 
 - [Markdown Guide](https://www.markdownguide.org/extended-syntax/#metadata)
+- [GitHub Flavoured Markdown](https://github.github.com/gfm/)
 
 
 <!-- Headings -->
