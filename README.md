@@ -1,3 +1,8 @@
+## Additional resources
+
+- [Markdown Guide](https://www.markdownguide.org/extended-syntax/#metadata)
+
+
 <!-- Headings -->
 # Heading 1
 ## Heading 2
